@@ -20,6 +20,6 @@ public class Ejemplo07 {
         System.out.printf("El resultados es: %f\n", resultado);
         
         System.out.printf("El resultados es: %.2f\n", resultado);
-              
+        //El %.2f este permite solo presentar dos decimales de el resultado      
     }
 }
