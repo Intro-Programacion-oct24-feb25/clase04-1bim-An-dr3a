@@ -18,6 +18,7 @@ public class Ejemplo01 {
         // Ejemplo 
         String nombreEstudiante;
         nombreEstudiante = "René Elizalde";
+        //Asignar cada variable
         System.out.println(nombreEstudiante);
         System.out.println("René Elizalde");
         nombreEstudiante = "Felipe Elizalde";
